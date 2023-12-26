@@ -1,0 +1,6 @@
+app_running_port:8078
+dtabase:postgresql
+postgres_port:5432
+database_name:library
+postgres_current_username:postgres
+postgres_current_password:siroj1294
