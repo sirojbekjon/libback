@@ -1,0 +1,56 @@
+2023-12-24 21:55:02,162 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(10) is still referenced from table "books".
+2023-12-24 21:55:08,501 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(11) is still referenced from table "books".
+2023-12-24 21:55:10,622 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(12) is still referenced from table "books".
+2023-12-24 21:55:15,271 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(5) is still referenced from table "books".
+2023-12-24 21:55:19,188 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(6) is still referenced from table "books".
+2023-12-24 21:55:23,221 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(3) is still referenced from table "books".
+2023-12-24 21:55:26,020 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(2) is still referenced from table "books".
+2023-12-24 21:55:28,409 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(4) is still referenced from table "books".
+2023-12-24 21:55:31,300 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(1) is still referenced from table "books".
+2023-12-24 21:55:46,210 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(10) is still referenced from table "books".
+2023-12-24 21:56:32,595 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(11) is still referenced from table "books".
+2023-12-24 21:58:12,861 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(15) is still referenced from table "books".
+2023-12-24 21:58:48,145 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(14) is still referenced from table "books".
+2023-12-24 21:59:37,756 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "library" violates foreign key constraint "fk9ru09niptbv6vu1ogveuom12k" on table "books_type"
+  Подробности: Key (id)=(16) is still referenced from table "books_type".
+2023-12-24 21:59:38,975 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "library" violates foreign key constraint "fk9ru09niptbv6vu1ogveuom12k" on table "books_type"
+  Подробности: Key (id)=(16) is still referenced from table "books_type".
+2023-12-24 22:00:38,219 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "library" violates foreign key constraint "fk9ru09niptbv6vu1ogveuom12k" on table "books_type"
+  Подробности: Key (id)=(16) is still referenced from table "books_type".
+2023-12-24 22:00:59,899 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "library" violates foreign key constraint "fk9ru09niptbv6vu1ogveuom12k" on table "books_type"
+  Подробности: Key (id)=(16) is still referenced from table "books_type".
+2023-12-24 22:02:31,500 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "library" violates foreign key constraint "fk9ru09niptbv6vu1ogveuom12k" on table "books_type"
+  Подробности: Key (id)=(16) is still referenced from table "books_type".
+2023-12-24 22:03:11,508 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(15) is still referenced from table "books".
+2023-12-24 22:07:49,083 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(18) is still referenced from table "books".
+2023-12-24 22:09:08,241 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(17) is still referenced from table "books".
+2023-12-24 22:11:07,138 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(3) is still referenced from table "books".
+2023-12-24 22:11:42,192 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(3) is still referenced from table "books".
+2023-12-24 22:14:37,201 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(3) is still referenced from table "books".
+2023-12-24 22:15:16,036 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(3) is still referenced from table "books".
+2023-12-24 22:15:47,542 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(3) is still referenced from table "books".
+2023-12-24 22:16:14,794 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(3) is still referenced from table "books".
+2023-12-24 22:18:06,921 ERROR SqlExceptionHelper:142 - [] ERROR: update or delete on table "books_type" violates foreign key constraint "fk3d0gb05gvtwlast259iv0c6xc" on table "books"
+  Подробности: Key (id)=(3) is still referenced from table "books".
