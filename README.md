@@ -1,18 +1,14 @@
 ## Installation
-1. Step 1
-2. Step 2
-3. ...
+1. running_port
+   port:8078
+2. database type
+   postgresql
+3. postgresql running port
+   port:5432
+4. database name
+   library
+5. postgresql username
+   postgres
+6. postgresql password
+   siroj1294   
 
-
-#running_port
-port:8078
-#database type
-postgresql
-#postgresql running port
-port:5432
-#database name
-library
-#postgresql username
-postgres
-#postgresql password
-siroj1294
