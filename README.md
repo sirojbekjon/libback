@@ -1,5 +1,8 @@
-[![Build Status](your_build_status_badge_url)](your_build_status_link)
-[![License](your_license_badge_url)](your_license_link)
+## Installation
+1. Step 1
+2. Step 2
+3. ...
+
 
 #running_port
 port:8078
