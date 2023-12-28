@@ -1,14 +1,14 @@
 ## Installation
 1. running_port
-   port:8078
+   "8078"
 2. database type
    postgresql
 3. postgresql running port
-   port:5432
+   "5432"
 4. database name
-   library
+   "library"
 5. postgresql username
-   postgres
+   "postgres"
 6. postgresql password
-   siroj1294   
+   "siroj1294"   
 
