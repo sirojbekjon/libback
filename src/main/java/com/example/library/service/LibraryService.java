@@ -3,7 +3,7 @@ package com.example.library.service;
 import com.example.library.entity.Library;
 import com.example.library.payload.ApiResponse;
 import com.example.library.payload.LibDto;
-import com.example.library.payload.repository.LibraryRepository;
+import com.example.library.repository.LibraryRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.ResponseEntity;

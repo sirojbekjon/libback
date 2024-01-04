@@ -1,0 +1,35 @@
+version: '2'
+
+services:
+  app:
+    ports:
+      - 8078:8078
+    image: 'libtest:latest'
+    build:
+      context: .
+    container_name: app
+    depends_on:
+      - db
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/library
+      - SPRING_DATASOURCE_USERNAME=postgres
+      - SPRING_DATASOURCE_PASSWORD=siroj1294
+      - SPRING_JPA_HIBERNATE_DDL_AUTO=update
+    networks:
+      - libnetworks
+  db:
+    image: 'postgres:13.1'
+    container_name: db
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=siroj1294
+      - POSTGRES_DB=library
+    volumes:
+      - postgres_db:/postgres/library
+    networks:
+      - libnetworks
+volumes:
+  postgres_db:
+networks:
+  libnetworks:
+    driver: bridge

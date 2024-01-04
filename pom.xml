@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>milliy-talim</groupId>
-    <artifactId>app-news-site</artifactId>
+    <artifactId>lib-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>app-news-site</name>
-    <description>app-news-site</description>
+    <name>lib-app</name>
+    <description>lib-app</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
